@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cyber Entertainment — website + admin panel
 
 Zero dependencies. Needs only **Node.js 18+** (no `npm install`).
@@ -46,3 +47,7 @@ The public site now includes local SVG artwork under `public/assets/` for the lo
 
 ## Photography
 The public site now includes a visual gallery and photography sourced from Pexels free-to-use listings. The gallery credits the photographers where known. Images are loaded from the Pexels CDN so the ZIP stays lightweight.
+=======
+# Cyber-Entertainment-Web
+Review Web
+>>>>>>> bca99a0d39122c43f0920a4983b7ce8780f7cd68
